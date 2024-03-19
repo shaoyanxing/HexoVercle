@@ -1,0 +1,6 @@
+2024/02/26 19:51:47 [1;34m[I] [root.go:119] 欢迎使用ChmlFrp映射客户端![0m
+2024/02/26 19:51:47 [1;34m[I] [root.go:129] To Get Config File from ChmlFrp API...[0m
+2024/02/26 19:51:47 [1;34m[I] [root.go:326] start frpc service for config file [./frpc.ini][0m
+2024/02/26 19:51:49 [1;34m[I] [service.go:301] [0lL0jnt4pvKGl7Nd0eKoq5nE-772491db4009f4f7] 成功登录至服务器, 获取到RunID [0lL0jnt4pvKGl7Nd0eKoq5nE-772491db4009f4f7][0m
+2024/02/26 19:51:49 [1;34m[I] [proxy_manager.go:150] [0lL0jnt4pvKGl7Nd0eKoq5nE-772491db4009f4f7] proxy added: [0lL0jnt4pvKGl7Nd0eKoq5nE.aJxnoQWW][0m
+2024/02/26 19:51:49 [1;34m[I] [control.go:172] [0lL0jnt4pvKGl7Nd0eKoq5nE-772491db4009f4f7] [0lL0jnt4pvKGl7Nd0eKoq5nE.aJxnoQWW] 映射启动成功, 感谢您使用ChmlFrp![0m

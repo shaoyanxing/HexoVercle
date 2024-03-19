@@ -1,0 +1,21 @@
+serverAddr = "a4313ed9-5aa9-f0b8-8a06-537bbbe3263a.openfrp.cc"
+serverPort = 8120
+user = "5bd6cc2fa1201aba647950d05ad561d2"
+
+[auth]
+method = "token"
+token = "OpenFrpToken"
+
+[transport]
+protocol = "tcp"
+
+[transport.tls]
+enable = true
+disableCustomTLSFirstByte = false
+
+[[proxies]]
+name = "3246sZ8"
+type = "http"
+localIP = "127.0.0.1"
+localPort = 1234
+customDomains = ["blog.shaoyanxing.top"]
